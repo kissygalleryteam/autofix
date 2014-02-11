@@ -1,0 +1,15 @@
+{
+    "name": "autofix",
+    "comName":"Autofix",
+    "version": "1.0",
+    "desc": "",
+    "tag":"元素不等高 滚动时做等高处理",
+    "githubName":"lvhaiyan",
+    "author": {
+        "name": "吕海燕",
+        "email": "969383776@qq.com",
+        "page": ""
+    },
+    "type": "kissy-gallery",
+    "type-url": "http://gallery.kissyui.com/guide"
+}
